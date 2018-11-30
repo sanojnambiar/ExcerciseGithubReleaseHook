@@ -48,7 +48,7 @@ platform :ios do
 
    # publish a new release into Github
 
-	GITHUB_TOKEN = "096219953ba60d5350bf367e8b4d41fd10f2d96a"
+	GITHUB_TOKEN = "a92fbab071c20a5d04ddb25c2d429bb0e5a5c21d"
 
     github_release = set_github_release(
         api_token: GITHUB_TOKEN,
