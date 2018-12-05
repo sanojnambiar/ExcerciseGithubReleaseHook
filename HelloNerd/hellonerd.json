@@ -1,4 +1,4 @@
 {
-    "v1.0": "https://github.com/sanojnambiar/ExcerciseGithubReleaseHook/releases/download/v1.0/HelloNerd.framework.zip",
-    "vChangelog" : "https://github.com/sanojnambiar/ExcerciseGithubReleaseHook/releases/download/vChangelog/HelloNerd.framework.zip"
+    "1.0": "https://github.com/sanojnambiar/ExcerciseGithubReleaseHook/releases/download/v1.0/HelloNerd.framework.zip",
+    "0.1" : "https://github.com/sanojnambiar/ExcerciseGithubReleaseHook/releases/download/vChangelog/HelloNerd.framework.zip"
 }
